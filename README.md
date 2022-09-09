@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ I'm Dyson from India, a passionate learner and explorer ✨
+✨ I'm Dyson from India 🇮🇳 , a passionate learner and explorer ✨
 
 🧑‍💻 Ex Tcs-er || Angular UI Developer || AWS Certified Cloud Practioner  || SSRS Developer 🧑‍💻
 
