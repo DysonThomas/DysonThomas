@@ -10,6 +10,6 @@
 
 Day 1 - [Music Player](https://github.com/DysonThomas/Music-Player-UI)
 
-Day 2 - [Login SignUp View](https://github.com/DysonThomas/Login-UI)
+
 
 
