@@ -8,13 +8,8 @@
 
 ⚡ Doing a 30 Days Challenge to create 30 Different UI feel free to join⚡ 
 
-Day 1 - [Music Player](https://github.com/DysonThomas/Music-Player-UI)
+[30 Days Flutter UI Challenege](https://github.com/DysonThomas/30-Days-Challange/blob/main/README.md)
 
-Day 2 - [Login SignUp View](https://github.com/DysonThomas/Login-UI)
-
-Day 3 - [Coffee App](https://github.com/DysonThomas/CoffeeMart)
-
-Day 4 - [Finanace App](https://github.com/DysonThomas/Finance-App)
 
 
 
