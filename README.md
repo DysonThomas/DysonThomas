@@ -8,7 +8,7 @@
 
 ⚡ Doing a 30 Days Challenge to create 30 Different UI feel free to join⚡ 
 
-[30 Days Flutter UI Challenege](https://github.com/DysonThomas/30-Days-Challange/blob/main/README.md)
+[10 Days Flutter UI Challenege](https://github.com/DysonThomas/30-Days-Challange/blob/main/README.md)
 
 
 
