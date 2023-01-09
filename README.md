@@ -6,7 +6,6 @@
 
 🌱 I’m currently pushing myself to learn Flutter 🌱
 
-⚡ Doing a 30 Days Challenge to create 30 Different UI feel free to join⚡ 
 
 [10 Days Flutter UI Challenege](https://github.com/DysonThomas/30-Days-Challange/blob/main/README.md)
 
