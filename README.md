@@ -4,10 +4,8 @@
 
 🧑‍💻 Ex Tcs-er || Angular UI Developer || AWS Certified Cloud Practioner  || SSRS Developer 🧑‍💻
 
-🌱 I’m currently pushing myself to learn Flutter 🌱
+🌱 I’m currently pushing myself to learn Flutter and Salesforce🌱
 
-
-[10 Days Flutter UI Challenege](https://github.com/DysonThomas/30-Days-Challange/blob/main/README.md)
 
 
 
