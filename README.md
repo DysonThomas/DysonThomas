@@ -2,9 +2,9 @@
 
 ✨ I'm Dyson from Canada 🇨🇦 , a passionate learner and explorer ✨
 
-🧑‍💻 Student at Fanshawe College London|| Ex Tcs-er || Angular UI Developer || AWS Certified Cloud Practioner  || SSRS Developer 🧑‍💻 || Google Data Analytics Professional
+🧑‍💻 Student at Fanshawe College London|| Ex Tcs-er  || SSRS Developer 🧑‍💻 || Google Data Analytics Professional
 
-🌱 I’m currently pushing myself to learn Flutter and Salesforce🌱
+🌱 I’m currently pushing myself to learn Flutter and Angular🌱
 
 [Flutter UI](https://github.com/DysonThomas/30-Days-Challange/tree/main)
 
