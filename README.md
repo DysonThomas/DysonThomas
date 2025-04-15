@@ -2,7 +2,7 @@
 
 ✨ I'm Dyson from India , a passionate learner and explorer ✨
 
-🧑‍💻 Student at Fanshawe College London|| Ex Tcs-er  || SSRS Developer 🧑‍💻 || Google Data Analytics Professional
+🧑‍💻Ex Tcs-er  || SSRS Developer 🧑‍💻 || Google Data Analytics Professional
 
 🌱 I’m currently pushing myself to learn Flutter and Angular🌱
 
