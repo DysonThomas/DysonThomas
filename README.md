@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ I'm Dyson from Canada 🇨🇦 , a passionate learner and explorer ✨
+✨ I'm Dyson from India , a passionate learner and explorer ✨
 
 🧑‍💻 Student at Fanshawe College London|| Ex Tcs-er  || SSRS Developer 🧑‍💻 || Google Data Analytics Professional
 
